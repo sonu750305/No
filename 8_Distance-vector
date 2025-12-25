@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int dist[50][50],temp[50][50],n,i,j,k,x;
 
 void dvr();
